@@ -1,0 +1,31 @@
+h1 {
+    color: #800080;
+    text-align: center;
+}
+
+body {
+    background-color: #472E1C;
+    font-family: Georgia;
+}
+
+ul {
+    list-style: none;
+    text-align: center;
+}
+
+main {
+    margin-left: auto;
+    margin-right: auto;
+    width: 40em;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 10px solid #800080;
+}
+
+footer {
+    color: #800080;
+}
